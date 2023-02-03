@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pokemon Center Scene
+* source:	https://sketchfab.com/3d-models/pokemon-center-scene-c497ebb33ca343a6a4cc4ab685b9235c
+* author:	Jeff (https://sketchfab.com/kiri-rxrai)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pokemon Center Scene" (https://sketchfab.com/3d-models/pokemon-center-scene-c497ebb33ca343a6a4cc4ab685b9235c) by Jeff (https://sketchfab.com/kiri-rxrai) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
